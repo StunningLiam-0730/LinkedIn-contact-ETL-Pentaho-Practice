@@ -12,7 +12,7 @@
 * **Output Format**: XML
 
 #### 檔案
-* `linkedin_connections_1000.csv`: 原始數據集（包含 1000 筆模擬聯絡人資訊）
+* `linkedin_connections_1000.csv`: 原始資料集（包含 1000 筆模擬聯絡人資訊）
 * `Contacts_Transformation.ktr`: Pentaho 轉換邏輯檔案
 * `Contacts01Outputfile.xml`: 最終輸出檔案
 
